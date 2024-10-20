@@ -1,0 +1,3 @@
+1. Create the Python frontend using QT or some library
+2. C++ engine for wordle
+3. Develop information theoretic algo.
